@@ -1,2 +1,1 @@
-console.log('one');
-console.log('is working');
+module.exports = () => 'one'
