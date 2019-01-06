@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.1 (2019-01-06)
+
+**Note:** Version bump only for package @demo/one
+
+
+
+
+
 ## [6.0.3](https://github.com/FilipStenbeck/test/compare/@wat/one@6.0.2...@wat/one@6.0.3) (2018-12-17)
 
 

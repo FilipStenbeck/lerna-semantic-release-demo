@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.1 (2019-01-06)
+
+**Note:** Version bump only for package @demo/two
+
+
+
+
+
 # [2.0.0](https://github.com/FilipStenbeck/test/compare/@wat/two@1.2.11...@wat/two@2.0.0) (2018-12-17)
 
 
