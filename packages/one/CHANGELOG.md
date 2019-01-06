@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/FilipStenbeck/lerna-semantic-release-demo/compare/@demo/one@1.1.0...@demo/one@2.0.0) (2019-01-06)
+
+
+### Features
+
+* return string message ([211eb5c](https://github.com/FilipStenbeck/lerna-semantic-release-demo/commit/211eb5c))
+
+
+### BREAKING CHANGES
+
+* replace logging directly with returning string value
+
+
+
+
+
 # [1.1.0](https://github.com/FilipStenbeck/lerna-semantic-release-demo/compare/@demo/one@1.0.1...@demo/one@1.1.0) (2019-01-06)
 
 
