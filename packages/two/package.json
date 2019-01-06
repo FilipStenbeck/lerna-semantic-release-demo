@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@wat/one": "^6.0.3"
+    "@demo/one": "^1.1.0"
   },
   "publishConfig": {
     "access": "public"
