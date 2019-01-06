@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/FilipStenbeck/lerna-semantic-release-demo/compare/@demo/two@1.1.1...@demo/two@1.2.0) (2019-01-06)
+
+
+### Bug Fixes
+
+* fix message ([17b8453](https://github.com/FilipStenbeck/lerna-semantic-release-demo/commit/17b8453))
+* linting ([c4c0657](https://github.com/FilipStenbeck/lerna-semantic-release-demo/commit/c4c0657))
+
+
+### Features
+
+* print extra status message ([0511f9d](https://github.com/FilipStenbeck/lerna-semantic-release-demo/commit/0511f9d))
+
+
+
+
+
 ## [1.1.1](https://github.com/FilipStenbeck/lerna-semantic-release-demo/compare/@demo/two@1.1.0...@demo/two@1.1.1) (2019-01-06)
 
 **Note:** Version bump only for package @demo/two
