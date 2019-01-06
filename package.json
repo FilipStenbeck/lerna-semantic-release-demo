@@ -12,7 +12,7 @@
     "diff": "lerna diff",
     "build": "lerna run build",
     "test": "lerna run test",
-    "release": "lerna version --yes --conventional-commits -m \"chore(release): publish %s\"; lerna exec npm publish",
+    "release": "lerna publish --yes --no-verify-access --registry http://localhost:4873",
     "ls": "lerna ls"
   },
   "workspaces": [
