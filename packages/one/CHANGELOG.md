@@ -1,0 +1,193 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [6.0.3](https://github.com/FilipStenbeck/test/compare/@wat/one@6.0.2...@wat/one@6.0.3) (2018-12-17)
+
+
+### Bug Fixes
+
+* asd ([55a67b5](https://github.com/FilipStenbeck/test/commit/55a67b5))
+
+
+
+
+
+## [6.0.2](https://github.com/FilipStenbeck/test/compare/@wat/one@6.0.1...@wat/one@6.0.2) (2018-12-17)
+
+**Note:** Version bump only for package @wat/one
+
+
+
+
+
+## [6.0.1](https://github.com/FilipStenbeck/test/compare/@wat/one@6.0.0...@wat/one@6.0.1) (2018-12-17)
+
+**Note:** Version bump only for package @wat/one
+
+
+
+
+
+# [6.0.0](https://github.com/FilipStenbeck/test/compare/@wat/one@5.0.0...@wat/one@6.0.0) (2018-12-17)
+
+
+### Features
+
+* g ([0f9fe5a](https://github.com/FilipStenbeck/test/commit/0f9fe5a))
+
+
+### BREAKING CHANGES
+
+* dsda
+
+
+
+
+
+# [5.0.0](https://github.com/FilipStenbeck/test/compare/@wat/one@4.0.0...@wat/one@5.0.0) (2018-12-17)
+
+
+### Features
+
+* breaking ([a164e37](https://github.com/FilipStenbeck/test/commit/a164e37))
+
+
+### BREAKING CHANGES
+
+* broke
+
+
+
+
+
+# [4.0.0](https://github.com/FilipStenbeck/test/compare/@wat/one@3.1.0...@wat/one@4.0.0) (2018-12-17)
+
+
+### Features
+
+* changed ([ef3e9f8](https://github.com/FilipStenbeck/test/commit/ef3e9f8))
+
+
+### BREAKING CHANGES
+
+* broke
+
+
+
+
+
+# [3.1.0](https://github.com/FilipStenbeck/test/compare/@wat/one@3.0.2...@wat/one@3.1.0) (2018-12-17)
+
+
+### Features
+
+* feat one ([a2f5d17](https://github.com/FilipStenbeck/test/commit/a2f5d17))
+
+
+
+
+
+## [3.0.2](https://github.com/FilipStenbeck/test/compare/@wat/one@3.0.1...@wat/one@3.0.2) (2018-12-17)
+
+
+### Bug Fixes
+
+* fix one ([453a658](https://github.com/FilipStenbeck/test/commit/453a658))
+
+
+
+
+
+## [3.0.1](https://github.com/FilipStenbeck/test/compare/@wat/one@3.0.0...@wat/one@3.0.1) (2018-12-15)
+
+
+### Bug Fixes
+
+* one ([aa08733](https://github.com/FilipStenbeck/test/commit/aa08733))
+
+
+
+
+
+# [3.0.0](https://github.com/FilipStenbeck/test/compare/@wat/one@2.2.0...@wat/one@3.0.0) (2018-12-15)
+
+
+### Features
+
+* changed ([24e0b3d](https://github.com/FilipStenbeck/test/commit/24e0b3d))
+
+
+### BREAKING CHANGES
+
+* broke
+
+
+
+
+
+# [2.2.0](https://github.com/FilipStenbeck/test/compare/@wat/one@2.1.0...@wat/one@2.2.0) (2018-12-15)
+
+
+### Features
+
+* foo ([b630ded](https://github.com/FilipStenbeck/test/commit/b630ded))
+
+
+
+
+
+# 2.1.0 (2018-12-15)
+
+
+### Bug Fixes
+
+* stuff ([d582d46](https://github.com/FilipStenbeck/test/commit/d582d46))
+* wat ([e4905bd](https://github.com/FilipStenbeck/test/commit/e4905bd))
+
+
+### Features
+
+* first commit ([2334091](https://github.com/FilipStenbeck/test/commit/2334091))
+
+
+
+
+
+## [2.0.1](https://github.com/FilipStenbeck/test/compare/one@1.1.2...one@2.0.1) (2018-12-15)
+
+
+### Bug Fixes
+
+* wat ([e4905bd](https://github.com/FilipStenbeck/test/commit/e4905bd))
+
+
+
+
+
+## [1.1.2](https://github.com/FilipStenbeck/test/compare/one@1.1.1...one@1.1.2) (2018-12-15)
+
+
+### Bug Fixes
+
+* stuff ([d582d46](https://github.com/FilipStenbeck/test/commit/d582d46))
+
+
+
+
+
+## [1.1.1](https://github.com/FilipStenbeck/test/compare/one@1.1.0...one@1.1.1) (2018-12-15)
+
+**Note:** Version bump only for package one
+
+
+
+
+
+# 1.1.0 (2018-12-15)
+
+
+### Features
+
+* first commit ([2334091](https://github.com/FilipStenbeck/test/commit/2334091))

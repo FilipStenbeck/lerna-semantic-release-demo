@@ -1,0 +1,15 @@
+{
+  "name": "@demo/one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "",
+  "license": "ISC",
+  "gitHead": "d9af1c4532771260d6a2c9cf6e62a09b875db047"
+}
