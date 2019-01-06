@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.1.0](https://github.com/FilipStenbeck/lerna-semantic-release-demo/compare/@demo/one@1.0.1...@demo/one@1.1.0) (2019-01-06)
+
+
+### Features
+
+* added message ([0153e16](https://github.com/FilipStenbeck/lerna-semantic-release-demo/commit/0153e16))
+
+
+
+
+
 ## 1.0.1 (2019-01-06)
 
 **Note:** Version bump only for package @demo/one
