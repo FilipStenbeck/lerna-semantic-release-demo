@@ -13,7 +13,7 @@
     "build": "lerna run build",
     "test": "lerna run test",
     "release": "lerna publish --yes --no-verify-access --registry http://localhost:4873",
-    "npm": "docker run -it --rm --name verdaccio -p 4873:4873 verdaccio/verdaccio",
+    "verdaccio": "docker run -it --rm --name verdaccio -p 4873:4873 verdaccio/verdaccio",
     "ls": "lerna ls"
   },
   "workspaces": [
