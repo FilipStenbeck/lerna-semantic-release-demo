@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.3](https://github.com/FilipStenbeck/lerna-semantic-release-demo/compare/@demo/one@2.0.2...@demo/one@2.0.3) (2020-03-12)
+
+
+### Bug Fixes
+
+* adds more text ([d0af773](https://github.com/FilipStenbeck/lerna-semantic-release-demo/commit/d0af773))
+
+
+
+
+
 ## [2.0.2](https://github.com/FilipStenbeck/lerna-semantic-release-demo/compare/@demo/one@2.0.1...@demo/one@2.0.2) (2019-01-06)
 
 
