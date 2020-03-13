@@ -12,7 +12,7 @@
     "build": "lerna run build",
     "test": "lerna run test",
     "release": "lerna publish --yes --no-verify-access --registry http://localhost:4873",
-    "verdaccio": "docker run -it --rm --name verdaccio -p 4873:4873 verdaccio/verdaccio",
+    "verdaccio": "docker-compose -f ../docker-examples/docker-local-storage-volume/docker-compose.yaml up",
     "ls": "lerna ls"
   },
   "workspaces": [
