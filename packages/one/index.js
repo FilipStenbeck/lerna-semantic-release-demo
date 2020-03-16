@@ -1,1 +1,1 @@
-module.exports = () => 'Package one'
+module.exports = () => 'Package one!!!'
