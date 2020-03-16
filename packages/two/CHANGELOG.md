@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.1](https://github.com/FilipStenbeck/lerna-semantic-release-demo/compare/@demo/two@1.4.0...@demo/two@1.4.1) (2020-03-16)
+
+**Note:** Version bump only for package @demo/two
+
+
+
+
+
 # [1.4.0](https://github.com/FilipStenbeck/lerna-semantic-release-demo/compare/@demo/two@1.3.10...@demo/two@1.4.0) (2020-03-16)
 
 
